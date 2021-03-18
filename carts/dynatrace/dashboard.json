@@ -144,7 +144,7 @@
       "assignedEntities": null,
       "filterConfig": {
         "type": "MIXED",
-        "customName": "Response time (P95);sli=svc_rt_p95;pass=\u003c+10%,\u003c600",
+        "customName": "Response time (P95);sli=svc_rt_p95;pass=\u003c+50%,\u003c600",
         "defaultName": "Custom chart",
         "chartConfig": {
           "legendShown": true,
