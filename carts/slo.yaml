@@ -28,7 +28,7 @@ objectives:
   displayName: ""
   pass:
   - criteria:
-    - <+10%
+    - <+50%
     - <600
   warning: []
   weight: 1
