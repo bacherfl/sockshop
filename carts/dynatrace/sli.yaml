@@ -1,0 +1,4 @@
+spec_version: 0.1.4
+indicators:
+  problems: PV2;problemSelector=status(open),managementZoneIds(-963041119097225900)
+  svc_rt_p95: MV2;MicroSecond;metricSelector=builtin:service.response.time:merge(0):avg:names&entitySelector=type(SERVICE),tag("keptn_service:carts"),mzId(-963041119097225900)
