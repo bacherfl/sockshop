@@ -3,7 +3,7 @@
     "configurationVersions": [
       3
     ],
-    "clusterVersion": "1.215.0.20210318-092555"
+    "clusterVersion": "1.215.0.20210322-211049"
   },
   "id": "3c2c3446-9837-46a9-bf91-112d35db3f07",
   "dashboardMetadata": {
@@ -58,13 +58,13 @@
       "CustomName": "",
       "Markdown": "",
       "bounds": {
-        "top": 456,
+        "top": 190,
         "left": 38,
         "width": 304,
         "height": 152
       },
       "tileFilter": {
-        "timeframe": "-1w"
+        "timeframe": ""
       },
       "queries": null,
       "assignedEntities": [
@@ -92,8 +92,8 @@
       "CustomName": "",
       "Markdown": "",
       "bounds": {
-        "top": 456,
-        "left": 456,
+        "top": 190,
+        "left": 380,
         "width": 152,
         "height": 152
       },
@@ -128,7 +128,7 @@
       "CustomName": "",
       "Markdown": "",
       "bounds": {
-        "top": 684,
+        "top": 342,
         "left": 38,
         "width": 798,
         "height": 304
